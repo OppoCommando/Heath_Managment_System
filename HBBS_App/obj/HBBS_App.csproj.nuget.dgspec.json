@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\FinalYearProject\\AppProject\\HBBS_App\\HBBS_App\\HBBS_App.csproj": {}
+    "F:\\FinalYearProject\\AppProject\\HBBS_App\\Heath_Managment_System\\HBBS_App\\HBBS_App.csproj": {}
   },
   "projects": {
-    "F:\\FinalYearProject\\AppProject\\HBBS_App\\HBBS_App\\HBBS_App.csproj": {
+    "F:\\FinalYearProject\\AppProject\\HBBS_App\\Heath_Managment_System\\HBBS_App\\HBBS_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FinalYearProject\\AppProject\\HBBS_App\\HBBS_App\\HBBS_App.csproj",
+        "projectUniqueName": "F:\\FinalYearProject\\AppProject\\HBBS_App\\Heath_Managment_System\\HBBS_App\\HBBS_App.csproj",
         "projectName": "HBBS_App",
-        "projectPath": "F:\\FinalYearProject\\AppProject\\HBBS_App\\HBBS_App\\HBBS_App.csproj",
+        "projectPath": "F:\\FinalYearProject\\AppProject\\HBBS_App\\Heath_Managment_System\\HBBS_App\\HBBS_App.csproj",
         "packagesPath": "C:\\Users\\apala\\.nuget\\packages\\",
-        "outputPath": "F:\\FinalYearProject\\AppProject\\HBBS_App\\HBBS_App\\obj\\",
+        "outputPath": "F:\\FinalYearProject\\AppProject\\HBBS_App\\Heath_Managment_System\\HBBS_App\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
